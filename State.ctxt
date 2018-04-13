@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=sn\ cn\ b
+comment0.target=State(java.lang.String,\ java.lang.String,\ java.awt.image.BufferedImage)
+comment1.params=
+comment1.target=java.lang.String\ getStateName()
+comment2.params=
+comment2.target=java.lang.String\ getCapitalName()
+comment3.params=
+comment3.target=java.awt.image.BufferedImage\ getStateImage()
+comment4.params=s
+comment4.target=void\ setStatusUsed(boolean)
+comment5.params=
+comment5.target=boolean\ getStatusUsed()
+numComments=6
